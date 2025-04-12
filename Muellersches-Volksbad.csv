@@ -1,4 +1,4 @@
-﻿datetime,maxPersonCount,personCount,free,used,dayOfWeek,dayOfWeekName,date,time
+datetime,maxPersonCount,personCount,free,used,dayOfWeek,dayOfWeekName,date,time
 12/01/2025 12:34:01,197,50,75,25,7,Sunday,12/01/2025,12:34:01
 12/01/2025 12:49:01,197,47,76,24,7,Sunday,12/01/2025,12:49:01
 12/01/2025 13:04:02,197,44,78,22,7,Sunday,12/01/2025,13:04:02
