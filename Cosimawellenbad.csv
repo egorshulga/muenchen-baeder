@@ -1,4 +1,4 @@
-datetime,maxPersonCount,personCount,free,used,dayOfWeek,dayOfWeekName,date,time
+﻿datetime,maxPersonCount,personCount,free,used,dayOfWeek,dayOfWeekName,date,time
 12/01/2025 12:32:01,530,351,34,66,7,Sunday,12/01/2025,12:32:01
 12/01/2025 12:47:01,530,359,32,68,7,Sunday,12/01/2025,12:47:01
 12/01/2025 13:02:01,530,353,33,67,7,Sunday,12/01/2025,13:02:01
@@ -5673,3 +5673,4 @@ datetime,maxPersonCount,personCount,free,used,dayOfWeek,dayOfWeekName,date,time
 08/04/2025 07:32:17,530,19,96,4,9,Tuesday,08/04/2025,07:32:17
 08/04/2025 07:47:14,530,27,95,5,9,Tuesday,08/04/2025,07:47:14
 12/04/2025 20:32:13,530,44,92,8,13,Saturday,12/04/2025,20:32:13
+14/04/2025 22:32:14,530,14,97,3,15,Monday,14/04/2025,22:32:14
