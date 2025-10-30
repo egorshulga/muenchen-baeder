@@ -292,3 +292,4 @@ datetime,maxPersonCount,personCount,free,used,dayOfWeek,dayOfWeekName,date,time
 30/10/2025 12:20:01,432,0,100,0,4,Thursday,30/10/2025,12:20:01
 30/10/2025 12:35:01,432,0,100,0,4,Thursday,30/10/2025,12:35:01
 30/10/2025 12:50:01,432,0,100,0,4,Thursday,30/10/2025,12:50:01
+30/10/2025 13:05:01,432,21,95,5,4,Thursday,30/10/2025,13:05:01
