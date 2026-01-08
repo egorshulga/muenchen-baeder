@@ -4401,3 +4401,4 @@ datetime,maxPersonCount,personCount,free,used,dayOfWeek,dayOfWeekName,date,time
 08/01/2026 07:03:01,570,0,100,0,4,Thursday,08/01/2026,07:03:01
 08/01/2026 07:18:01,570,0,100,0,4,Thursday,08/01/2026,07:18:01
 08/01/2026 07:33:01,570,21,96,4,4,Thursday,08/01/2026,07:33:01
+08/01/2026 07:48:01,570,31,95,5,4,Thursday,08/01/2026,07:48:01
