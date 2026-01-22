@@ -5291,3 +5291,4 @@ datetime,maxPersonCount,personCount,free,used,dayOfWeek,dayOfWeekName,date,time
 21/01/2026 22:50:01,432,20,95,5,3,Wednesday,21/01/2026,22:50:01
 22/01/2026 07:05:01,432,0,100,0,4,Thursday,22/01/2026,07:05:01
 22/01/2026 07:20:03,432,0,100,0,4,Thursday,22/01/2026,07:20:03
+22/01/2026 07:35:01,432,30,93,7,4,Thursday,22/01/2026,07:35:01
