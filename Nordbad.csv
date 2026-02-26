@@ -7528,3 +7528,4 @@ datetime,maxPersonCount,personCount,free,used,dayOfWeek,dayOfWeekName,date,time
 26/02/2026 07:05:01,432,0,100,0,4,Thursday,26/02/2026,07:05:01
 26/02/2026 07:20:01,432,0,100,0,4,Thursday,26/02/2026,07:20:01
 26/02/2026 07:35:01,432,19,96,4,4,Thursday,26/02/2026,07:35:01
+26/02/2026 07:50:01,432,31,93,7,4,Thursday,26/02/2026,07:50:01
